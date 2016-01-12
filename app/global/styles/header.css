@@ -1,0 +1,26 @@
+.container-wrap {
+    height: 75px;
+}
+.icon-photo {
+    display: inline-block;
+    width: 60px;
+    height: 60px;
+    background: url('https://s3.amazonaws.com/codecademy-images/pro/variants-path.svg') no-repeat;
+    margin-top: 8px;
+}
+.icon-title {
+    font-size: 30px;
+    padding-left: 15px;
+    position: relative;
+    top: -20px;
+}
+.list-nab li {
+    float: left;
+    margin-top: 27px;
+    display: block;
+    padding: 0px 20px;
+}
+.list-nab a {
+    text-decoration: none;
+}
+.list-nav li:hover

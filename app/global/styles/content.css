@@ -1,0 +1,14 @@
+.bg-content {
+    height:600px;
+    background:url('./app/global/images/video_icon.jpg') no-repeat;
+}
+.bg-content-title {
+    text-align: center;
+    font-size: 30px;
+    padding-top: 30px;
+}
+.bg-content-small-title {
+    text-align: center;
+    font-size: 25px;
+    padding-top: 30px;
+}
